@@ -1,6 +1,6 @@
 import os
 # Parse database configuration from $DATABASE_URL
-#import dj_database_url
+# import dj_database_url
 
 from .base import *  # noqa
 
